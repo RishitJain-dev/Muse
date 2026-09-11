@@ -4,10 +4,7 @@ A modern iPod-like device with a micro-SD card slot and a headphone jack, all co
 ## 1. Designing the schematic - 4 hours
    I used KiCad to design the schematic
 
-  <img width="1327" height="766" alt="Screenshot 2026-08-31 145849" src="https://github.com/user-attachments/assets/bb594cb5-0072-44a9-9c53-aa0afcf57c7f" />
 
-
-   
  ## 2. Designing the PCB - 3 hours
    Placed components, routed traces, filled a ground pour and exported STEP and GERBER for later use
 
