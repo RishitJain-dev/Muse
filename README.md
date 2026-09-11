@@ -1,4 +1,4 @@
-<img width="1180" height="716" alt="Screenshot 2026-09-11 181038" src="https://github.com/user-attachments/assets/1de19573-5e67-4005-b0c6-9845aed88b57" /># Muse
+# Muse
 A modern iPod-like device with a micro-SD card slot and a headphone jack, all controlled with a rotary encoder dial, buttons and a screen.
 
 ## 1. Designing the schematic - 4 hours
@@ -17,7 +17,7 @@ A modern iPod-like device with a micro-SD card slot and a headphone jack, all co
 181038.png…]()<img width="1201" height="691" alt="Screenshot 2026-09-11 181154" src="https://github.com/user-attachments/assets/572569f1-870a-4a83-ad22-ef7d0aa088f2" />
 <img width="1192" height="689" alt="Screenshot 2026-09-11 181302" src="https://github.com/user-attachments/assets/69f1c92d-2558-42fd-a795-477f6570302c" />
 <img width="1646" height="818" alt="Screenshot 2026-09-11 181233" src="https://github.com/user-attachments/assets/34fb9d5b-8b0b-454e-996e-6ecec1f26e39" />
-
+<img width="1180" height="716" alt="Screenshot 2026-09-11 181038" src="https://github.com/user-attachments/assets/1de19573-5e67-4005-b0c6-9845aed88b57" />
    
 ## 3. Designing the CAD - 1 hour 
   I used Onshape to design the CAD, splitting the casing into 2 pieces, top and bottom, all connected by pure friction, and button covers, and a rotary encoder dial
